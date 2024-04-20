@@ -1,0 +1,9 @@
+sentence-transformers
+uvicorn
+ctransformers
+python-box
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
